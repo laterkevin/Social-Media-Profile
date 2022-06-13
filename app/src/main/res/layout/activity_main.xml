@@ -170,6 +170,7 @@
             android:layout_width="10dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:backgroundTint="#2196F3"
             android:text="Folgen" />
 
         <Button
@@ -179,6 +180,7 @@
             android:layout_marginLeft="2dp"
             android:layout_marginRight="2dp"
             android:layout_weight="1"
+            android:backgroundTint="#FFFFFF"
             android:text="Nachricht"
             android:textColor="@color/black" />
 
